@@ -23,4 +23,4 @@ npm run dev
 npm run test
 
 ## Deployment
-Deployed on Vercel / Netlify
+Deployed on Vercel 
